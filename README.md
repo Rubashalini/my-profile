@@ -11,14 +11,6 @@ My goal is to build strong fundamentals in programming and software engineering 
 
 ML/AI, Python programming language, Networking
 
-## 👀 Visitor Count
-
-<!-- ⚠️ Important: Replace 'Rubashalini' with your actual GitHub username in the URL below -->
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Rubashalini/count.svg" />
-  <br>Thank you for visiting my profile! Come back soon!
-</p>
-
 ## 🏆 GitHub Trophies
 
 <!-- ⚠️ Important: Replace 'Rubashalini' with your actual GitHub username in the URL below -->
@@ -81,12 +73,4 @@ ML/AI, Python programming language, Networking
 
 📱 **Phone:** +94769306832
 
-</div>
-
----
-⭐️ From [Rubarajan Rubashalini](https://github.com/Rubashalini)
-
-<!-- Profile views counter -->
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Rubashalini/count.svg" alt="Visitor Count" />
 </div>
